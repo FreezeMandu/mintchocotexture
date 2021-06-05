@@ -1,1 +1,1 @@
-Items.sand.color = Color.valueOf("#e58027");
+Items.sand.sprite = sprites-override.item-sand.png
